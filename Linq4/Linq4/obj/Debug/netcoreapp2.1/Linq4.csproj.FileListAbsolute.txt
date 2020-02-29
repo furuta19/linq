@@ -1,0 +1,10 @@
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\bin\Debug\netcoreapp2.1\Linq4.deps.json
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\bin\Debug\netcoreapp2.1\Linq4.runtimeconfig.json
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\bin\Debug\netcoreapp2.1\Linq4.runtimeconfig.dev.json
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\bin\Debug\netcoreapp2.1\Linq4.dll
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\bin\Debug\netcoreapp2.1\Linq4.pdb
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\obj\Debug\netcoreapp2.1\Linq4.csproj.CoreCompileInputs.cache
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\obj\Debug\netcoreapp2.1\Linq4.AssemblyInfoInputs.cache
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\obj\Debug\netcoreapp2.1\Linq4.AssemblyInfo.cs
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\obj\Debug\netcoreapp2.1\Linq4.dll
+C:\Users\ПУДГЕ\source\repos\Linq4\Linq4\obj\Debug\netcoreapp2.1\Linq4.pdb

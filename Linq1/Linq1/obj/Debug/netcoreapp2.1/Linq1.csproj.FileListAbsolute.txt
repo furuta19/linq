@@ -1,0 +1,11 @@
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\bin\Debug\netcoreapp2.1\Linq1.deps.json
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\bin\Debug\netcoreapp2.1\Linq1.runtimeconfig.json
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\bin\Debug\netcoreapp2.1\Linq1.runtimeconfig.dev.json
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\bin\Debug\netcoreapp2.1\Linq1.dll
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\bin\Debug\netcoreapp2.1\Linq1.pdb
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\obj\Debug\netcoreapp2.1\Linq1.csprojAssemblyReference.cache
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\obj\Debug\netcoreapp2.1\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\obj\Debug\netcoreapp2.1\Linq1.AssemblyInfoInputs.cache
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\obj\Debug\netcoreapp2.1\Linq1.AssemblyInfo.cs
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\obj\Debug\netcoreapp2.1\Linq1.dll
+C:\Users\ПУДГЕ\source\repos\Linq1\Linq1\obj\Debug\netcoreapp2.1\Linq1.pdb

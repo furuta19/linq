@@ -1,0 +1,10 @@
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\bin\Debug\netcoreapp2.1\Linq3.deps.json
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\bin\Debug\netcoreapp2.1\Linq3.runtimeconfig.json
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\bin\Debug\netcoreapp2.1\Linq3.runtimeconfig.dev.json
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\bin\Debug\netcoreapp2.1\Linq3.dll
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\bin\Debug\netcoreapp2.1\Linq3.pdb
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\obj\Debug\netcoreapp2.1\Linq3.csproj.CoreCompileInputs.cache
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\obj\Debug\netcoreapp2.1\Linq3.AssemblyInfoInputs.cache
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\obj\Debug\netcoreapp2.1\Linq3.AssemblyInfo.cs
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\obj\Debug\netcoreapp2.1\Linq3.dll
+C:\Users\ПУДГЕ\source\repos\Linq3\Linq3\obj\Debug\netcoreapp2.1\Linq3.pdb
