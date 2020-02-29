@@ -1,0 +1,11 @@
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\bin\Debug\netcoreapp2.1\Linq7.deps.json
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\bin\Debug\netcoreapp2.1\Linq7.runtimeconfig.json
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\bin\Debug\netcoreapp2.1\Linq7.runtimeconfig.dev.json
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\bin\Debug\netcoreapp2.1\Linq7.dll
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\bin\Debug\netcoreapp2.1\Linq7.pdb
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\obj\Debug\netcoreapp2.1\Linq7.csproj.CoreCompileInputs.cache
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\obj\Debug\netcoreapp2.1\Linq7.AssemblyInfoInputs.cache
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\obj\Debug\netcoreapp2.1\Linq7.AssemblyInfo.cs
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\obj\Debug\netcoreapp2.1\Linq7.dll
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\obj\Debug\netcoreapp2.1\Linq7.pdb
+C:\Users\ПУДГЕ\source\repos\Linq7\Linq7\obj\Debug\netcoreapp2.1\Linq7.csprojAssemblyReference.cache
